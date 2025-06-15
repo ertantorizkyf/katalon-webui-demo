@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_double_click</name>
+   <tag></tag>
+   <elementGuidId>43d2abf8-29a5-4e0e-8637-154767774f28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;doubleClickBtn&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;doubleClickBtn&quot;]</value>
+      <webElementGuid>4ef386e5-8e82-48ab-b60e-be1708ca0603</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

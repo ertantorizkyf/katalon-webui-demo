@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_double_click</name>
+   <tag></tag>
+   <elementGuidId>1f19f604-4d83-4e43-81a0-9e137a11458d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;doubleClickMessage&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;doubleClickMessage&quot;]</value>
+      <webElementGuid>f16e3365-d160-472b-8201-343712c37ff1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

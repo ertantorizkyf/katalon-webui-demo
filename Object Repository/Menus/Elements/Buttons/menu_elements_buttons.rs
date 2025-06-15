@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_elements_buttons</name>
+   <tag></tag>
+   <elementGuidId>cf2b5d2b-976c-4c6e-b593-76e295319442</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[normalize-space()=&quot;Buttons&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[normalize-space()=&quot;Buttons&quot;]</value>
+      <webElementGuid>70dbadc5-3201-4398-8c23-abaf6a787fa1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

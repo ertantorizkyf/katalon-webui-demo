@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_right_click</name>
+   <tag></tag>
+   <elementGuidId>fc43258d-ffe5-48e3-8db1-ae0485cf0ef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;rightClickBtn&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;rightClickBtn&quot;]</value>
+      <webElementGuid>1cf41276-aa8c-4e56-a02d-58cd91de63a5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
